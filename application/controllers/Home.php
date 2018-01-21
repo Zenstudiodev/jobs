@@ -13,7 +13,6 @@ class Home extends Base_Controller
 	{
 		parent::__construct();
 		// Modelos
-
 	}
 
 	function index()
