@@ -6,6 +6,8 @@
  * Time: 2:12 PM
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
+
+$this->layout('admin/admin_master');
 ?>
 
 
