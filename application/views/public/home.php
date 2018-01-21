@@ -7,7 +7,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$this->layout('admin/admin_master');
+$this->layout('public/public_master');
 ?>
 
 
