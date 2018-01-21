@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('No direct script acces allowed');
 /**
  * Created by PhpStorm.
  * User: Carlos

@@ -6,6 +6,7 @@
  * Time: 2:10 PM
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
+
 class Home extends Base_Controller
 {
 	function __construct()
